@@ -1,6 +1,6 @@
 # bdd
 
-A new Flutter project.
+Conexion de flutter con bases de datos mysql.
 
 ## Getting Started
 
